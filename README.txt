@@ -1,0 +1,1 @@
+Starter Amelia's Eatery POS. Open index.html or host on a local web server.
